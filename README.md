@@ -1,4 +1,4 @@
-# SpringBatch
+# SpringBatch Note
 
 > For Spring batch H2 db is good choice as inmemory db for SpringBatch since we can access UI console for data view during runtime.
 > Here is the useful link that give more details on how to pass/access parameter that set on JobLuncher from Controller(e.g. REST Controller) in/from Spring Batch reader.
